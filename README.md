@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoVeles
-- 👀 I’m interested in python, abap, motocross, microcontrolling 
-- 🌱 I’m currently learning python and weblayout
+- 👀 I’m interested in java, abap, python, motocross, microcontrolling 
+- 🌱 I’m currently learning springFramework
 - 💞️ I’m looking to collaborate on Don't know yet
 - 📫 How to reach me plotbug@mail.ru
 
